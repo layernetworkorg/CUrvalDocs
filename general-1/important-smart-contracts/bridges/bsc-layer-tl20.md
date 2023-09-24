@@ -1,0 +1,1 @@
+# BSC ↔ Curval TL20
