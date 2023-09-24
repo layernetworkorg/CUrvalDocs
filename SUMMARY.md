@@ -65,5 +65,5 @@
 
 - [GitHub](https://github.com/Curvalnetworkorg)
 - [Telegram](https://t.me/CurvalNetwork)
-- [Twitter](https://twitter.com/Lyrnetwork)
+- [Twitter](https://twitter.com/Curvalnetwork)
 - [Docs](https://docs.Curvalscan.org)
